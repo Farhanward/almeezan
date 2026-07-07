@@ -1,0 +1,22 @@
+{
+  "case_count": 2,
+  "average_score": 64.26,
+  "verdicts": {
+    "PASS": 1,
+    "BLOCK": 1
+  },
+  "items": [
+    {
+      "case": "safe.json",
+      "score": 100.0,
+      "verdict": "PASS",
+      "report": "reports\\batch\\safe.md"
+    },
+    {
+      "case": "unsafe.json",
+      "score": 28.52,
+      "verdict": "BLOCK",
+      "report": "reports\\batch\\unsafe.md"
+    }
+  ]
+}

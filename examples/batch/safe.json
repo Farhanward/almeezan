@@ -1,0 +1,9 @@
+{
+  "use_case": "نشر وصف موقع",
+  "model": "demo-model",
+  "risk_level": "medium",
+  "prompt": "اكتب وصفاً موجزاً لـ CarbonFlow.",
+  "output": "CarbonFlow منصة أتمتة وذكاء اصطناعي عربية تركز على السعودية والخليج. تعمل على n8n وOllama وLiteCart، وموقعها الرسمي https://www.carbonflows.store.",
+  "evidence": []
+}
+
